@@ -10,6 +10,14 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
+## Challenge completed by Francisco Carusso! 💯
+
+Thanks for checking out this front-end coding challenge.
+
+Access the resolution of the challenge: [Todointerconectado.com/introductorymeetingpage/](https://todointerconectado.com/introductorymeetingpage/)
+
+**To do this challenge, you need a basic understanding of HTML and CSS.**
+
 ## The challenge
 
 Your challenge is to build out this landing page from the designs provided in the starter code.
