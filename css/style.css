@@ -195,6 +195,11 @@
         padding-top: 50px;
     }
 
+    .header figure {
+        width: 250px;
+        height: auto;
+    }
+
     .main{
         flex-direction: row;
         max-width: 100%;
