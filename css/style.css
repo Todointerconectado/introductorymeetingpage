@@ -101,16 +101,20 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-
-.Button {
-    margin-bottom: 50px;
+.container .Button {
+    margin: 50px auto;
     border: none;
+    padding: 5px 20px;
     border-radius: 50px;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
     width: 200px;
     height: 40px;
     font-weight: 700;
-    color: var(--violet);
+    background: white;
     cursor: pointer;
     transition: transform 300ms ease, color 300ms ease, background 300ms ease;
 }
